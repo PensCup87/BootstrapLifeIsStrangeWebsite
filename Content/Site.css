@@ -52,6 +52,14 @@ span.icon-bar{
     background-size: cover;
 }
 h1.container#trailer{
+    /*Aligns the video to the right - The Video is in an H1 and can be moved*/
     text-align: right;
     background-color:rgbA(232, 214, 207, 0.0);
 }
+
+/*PREVIEW SECTION*/
+/*Centers the elements rather than having extra space on the right side*/
+.previewThem{
+    margin:auto;
+}
+
